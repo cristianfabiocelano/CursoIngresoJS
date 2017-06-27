@@ -4,12 +4,6 @@
 */
 function Mostar()
 {
-	var dos = prompt("ingese su nombre aqui");
 	
-	document.getElementById("elNombre").value = dos;
-
-	
-	
-
 }
 
