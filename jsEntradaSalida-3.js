@@ -2,13 +2,9 @@
 y luego mostrarlo por 'Alert' al presionar el botón  'MOSTRAR'*/
 function Mostar()
 {
-    var cristian;
+	var uno = document.getElementById("elNombre").value;
 
-	var cristian = document.getElementById("elNombre").value;
-
-    alert (cristian);
-
-
+    alert (uno);
 }
 
 
